@@ -36,3 +36,5 @@
 - [Yuanlin Lin - Blog](https://yuanlin.dev/)
 - [星星的筆記．Lucas](https://star-note-lucas.vercel.app/)
 - [網頁開發雜記](https://useme.medium.com/)
+- [Miles'Blog](https://mileschou.me/)
+- [Recca Chao 的網頁開發](https://gitpage.reccachao.net/)
