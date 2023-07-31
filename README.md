@@ -31,3 +31,5 @@
 - [张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/)
 - [Let's Write](https://www.letswrite.tw/)
 - [伊果的沒人看筆記本](https://igouist.github.io/)
+- [水球潘](https://medium.com/@waterball.tw)
+- [Leo's Coding Life](https://blog.leochen.dev)
