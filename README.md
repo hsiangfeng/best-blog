@@ -34,3 +34,5 @@
 - [水球潘](https://medium.com/@waterball.tw)
 - [Leo's Coding Life](https://blog.leochen.dev)
 - [Yuanlin Lin - Blog](https://yuanlin.dev/)
+- [星星的筆記．Lucas](https://star-note-lucas.vercel.app/)
+- [網頁開發雜記](https://useme.medium.com/)
