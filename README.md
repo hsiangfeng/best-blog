@@ -38,3 +38,4 @@
 - [網頁開發雜記](https://useme.medium.com/)
 - [Miles'Blog](https://mileschou.me/)
 - [Recca Chao 的網頁開發](https://gitpage.reccachao.net/)
+- [Summer。桑莫。夏天](https://www.cythilya.tw/)
